@@ -1,3 +1,18 @@
+> [!WARNING]
+> Several hastily launched, incorrect, and in most cases entirely LLM-generated fakes of RNode-based devices, associated tools, "guides" and "documentation" are currently being circulated and marketed. Most of these "projects" violate the open source GPLv3 and Creative Commons licenses that RNode and associated documentation and resources were published under, but claim independent ownership and license grants.
+>
+> Such claims or grants are **not** legally valid, and **not** recognized by the RNode authors and copyright holders.
+>
+> Any claimed assertion of copyright or grant of license that such projects are making are [void grants](https://reticulum.network/manual/brandolinis.html#void-grants-legal-foundations-of-machine-generated-code).
+>
+> Both the violators themselves, and **all** downstream projects using the infringing derivatives, are **directly** and **personally** liable for the legal consequences.
+>
+> For trustworthy community resources, see the [main Reticulum repository](https://github.com/markqvist/Reticulum#community-resources). For more detailed information, see the relevant sections of the [Brandolini's Reference](https://reticulum.network/manual/brandolinis.html) chapter of the Reticulum Manual. For software and projects recognized by the Reticulum community, see the [Programs Using Reticulum](https://reticulum.network/manual/software.html) chapter.
+>
+> Do **not** use these "projects", they are a hazard to the entire ecosystem we have been carefully building over the last ten years.
+
+---
+
 *This repository is [a public mirror](./MIRROR.md). All development is happening elsewhere.*
 
 ***Important!** This repository is currently functioning as a stable reference for the default RNode Firmware, and only receives bugfix and security updates. Further development, new features and expanded board support is now happening at the [RNode Firmware Community Edition](https://github.com/liberatedsystems/RNode_Firmware_CE) repository, and is maintained by [Liberated Embedded Systems](https://github.com/liberatedsystems). Thanks for all contributions so far!*
