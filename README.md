@@ -1,7 +1,13 @@
 > [!WARNING]
-> Several hastily launched, incorrect, and in most cases entirely LLM-generated fakes of RNode-based devices, associated tools, "guides" and "documentation" are currently being circulated and marketed. Most of these "projects" violate the open source GPLv3 and Creative Commons licenses that RNode and associated documentation and resources were published under, but claim independent ownership and license grants.
+> RNode is a free, community-developed project, and everything you need to use and build upon it is openly and freely available. Support honest, hard-working builders and maintainers, not [LLM-powered grifters](https://www.youtube.com/watch?v=_znz-3f_66Q) trying to scam you for thousands of dollars.
 >
-> Such claims or grants are **not** legally valid, and **not** recognized by the RNode authors and copyright holders.
+> If you want to buy an RNode device rather than build it yourself, do so from honest, accountable makers, **not** sensationalist YouTubers making outrageously false claims and selling devices for $1100, while stealing the work of the community.
+>
+> Several hastily launched, incorrect, and in most cases entirely LLM-generated fakes of RNode-based devices, associated tools, "guides" and "documentation" are currently being circulated, marketed and sold for outrageous prices, or being used to advertise crypto-currency tokens.
+>
+> Most of these hoaxes violate the open source GPLv3 and Creative Commons licenses that RNode and associated documentation and resources were published under, while at the same time claiming independent ownership and license grants.
+>
+> Such claims or grants are **not legally valid**, and **not** recognized by the RNode authors and copyright holders.
 >
 > Any claimed assertion of copyright or grant of license that such projects are making are [void grants](https://reticulum.network/manual/brandolinis.html#void-grants-legal-foundations-of-machine-generated-code).
 >
@@ -14,8 +20,6 @@
 ---
 
 *This repository is [a public mirror](./MIRROR.md). All development is happening elsewhere.*
-
-***Important!** This repository is currently functioning as a stable reference for the default RNode Firmware, and only receives bugfix and security updates. Further development, new features and expanded board support is now happening at the [RNode Firmware Community Edition](https://github.com/liberatedsystems/RNode_Firmware_CE) repository, and is maintained by [Liberated Embedded Systems](https://github.com/liberatedsystems). Thanks for all contributions so far!*
 
 # RNode Firmware
 
